@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Integrating Mongo Ruby API with Rails
 
 This project provides an example of integrating the MongoDB with Rails using the 
@@ -1181,3 +1182,6 @@ was provided by the `MongoLab` page on the `Heroku` Dev Center page.
     ```shell
     $ heroku logs
     ```
+=======
+# coursera-zips
+>>>>>>> 95607cb5eec4c76901cbf0dd1d1d0fef1e31d285
